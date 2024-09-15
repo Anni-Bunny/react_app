@@ -1,6 +1,6 @@
 export const About = () => {
     return (
-        <div>
+        <>
             <section className="bg-[url('https://sxcontent9668.azureedge.us/cms-assets/assets/Rocket_Garden_0828232579_456787510e.JPG')] bg-cover bg-fixed h-dvh py-14">
             </section>
 
@@ -77,6 +77,6 @@ export const About = () => {
                     </ol>
             </div>
             </section>
-        </div>
+        </>
     )
 }
