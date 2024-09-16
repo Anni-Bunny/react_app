@@ -4,7 +4,7 @@ export const About = () => {
             <section className="bg-[url('https://sxcontent9668.azureedge.us/cms-assets/assets/Rocket_Garden_0828232579_456787510e.JPG')] bg-cover bg-fixed h-dvh py-14">
             </section>
 
-            <section className='py-20 bg-black text-white'>
+            <section className='py-10 bg-black text-white'>
             <div className='container mx-auto space-y-10 text-start text-lg'>
                     <h1 className='font-bold text-xl text-center'>ABOUT SPACE X</h1>
                     <h2>SpaceX, or Space Exploration Technologies Corp., is an American aerospace manufacturer and space
