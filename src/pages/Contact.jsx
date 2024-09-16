@@ -28,7 +28,7 @@ export const Contact = () => {
     }
 
     return (
-        <form onSubmit={getAlert} className="bg-black h-dvh">
+        <form onSubmit={getAlert} className="bg-black ">
             <div className="w-full max-w-md px-4 container mx-auto text-start text-white mt-10 space-y-3">
                 <h1 className="text-lg font-bold text-center">Contact Us</h1>
                 <Field>
